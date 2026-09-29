@@ -48,55 +48,5 @@
     "birthDate": "2000-07-25",
     "recordStatus": "Active",
     "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 5, \"notes\": \"New citizen\"}"
-  },
-  {
-    "nationalNo": "10606060606",
-    "firstName": "محمود",
-    "lastName": "الـصالح",
-    "fatherName": "محمد",
-    "motherName": "آمنة",
-    "birthDate": "1978-12-01",
-    "recordStatus": "Active",
-    "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 6, \"notes\": \"Senior citizen\"}"
-  },
-  {
-    "nationalNo": "10707070707",
-    "firstName": "ليلى",
-    "lastName": "الـمرعي",
-    "fatherName": "سامي",
-    "motherName": "هدى",
-    "birthDate": "1992-04-18",
-    "recordStatus": "Active",
-    "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 7, \"notes\": \"Verified\"}"
-  },
-  {
-    "nationalNo": "10808080808",
-    "firstName": "يوسف",
-    "lastName": "الـخطيب",
-    "fatherName": "رائد",
-    "motherName": "سميرة",
-    "birthDate": "1988-09-09",
-    "recordStatus": "Active",
-    "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 8, \"notes\": \"Standard\"}"
-  },
-  {
-    "nationalNo": "10909090909",
-    "firstName": "نور",
-    "lastName": "الـدين",
-    "fatherName": "جمال",
-    "motherName": "منى",
-    "birthDate": "1998-03-30",
-    "recordStatus": "Active",
-    "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 9, \"notes\": \"Student\"}"
-  },
-  {
-    "nationalNo": "11010101010",
-    "firstName": "إبراهيم",
-    "lastName": "الـعطية",
-    "fatherName": "طارق",
-    "motherName": "ريم",
-    "birthDate": "1975-06-11",
-    "recordStatus": "Suspended",
-    "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 10, \"notes\": \"Suspended record\"}"
   }
 ]
