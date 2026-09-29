@@ -4,49 +4,6 @@
     "firstName": "أحمد",
     "lastName": "الـمحمود",
     "fatherName": "خالد",
-    "motherName": "فاطمة",
     "birthDate": "1990-05-12",
-    "recordStatus": "Active",
-    "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 1, \"notes\": \"Verified successfully\"}"
-  },
-  {
-    "nationalNo": "10202020202",
-    "firstName": "محمد",
-    "lastName": "الـحسيني",
-    "fatherName": "إبراهيم",
-    "motherName": "زينب",
-    "birthDate": "1985-08-20",
-    "recordStatus": "Active",
-    "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 2, \"notes\": \"Standard record\"}"
-  },
-  {
-    "nationalNo": "10303030303",
-    "firstName": "سارة",
-    "lastName": "الـناصر",
-    "fatherName": "عبدالله",
-    "motherName": "مريم",
-    "birthDate": "1995-02-14",
-    "recordStatus": "Active",
-    "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 3, \"notes\": \"Updated recently\"}"
-  },
-  {
-    "nationalNo": "10404040404",
-    "firstName": "عمر",
-    "lastName": "الـفاروق",
-    "fatherName": "عثمان",
-    "motherName": "عائشة",
-    "birthDate": "1982-11-03",
-    "recordStatus": "Inactive",
-    "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 4, \"notes\": \"Record inactive\"}"
-  },
-  {
-    "nationalNo": "10505050505",
-    "firstName": "فاطمة",
-    "lastName": "الـزهراء",
-    "fatherName": "حسن",
-    "motherName": "خديجة",
-    "birthDate": "2000-07-25",
-    "recordStatus": "Active",
-    "rawJsonPayload": "{\"source\": \"mock-server\", \"id\": 5, \"notes\": \"New citizen\"}"
   }
 ]
