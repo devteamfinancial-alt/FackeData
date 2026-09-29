@@ -1,9 +1,7 @@
-[
-  {
+{
     "nationalNo": "10101010101",
     "firstName": "أحمد",
     "lastName": "الـمحمود",
     "fatherName": "خالد",
     "birthDate": "1990-05-12"
-  }
-]
+}
